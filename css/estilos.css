@@ -1,0 +1,159 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: F8F6F6;
+	padding-right: 2%;
+	padding-left: 2%;
+}
+header{
+	padding-top: 2%;
+	padding-right: 2%;
+	padding-bottom: 2%;
+	padding-left: 2%;
+	display: flex;
+	justify-content: space-between;
+}
+header img {
+	height: 7rem;
+	width: auto;
+}
+nav ul li {
+	display: inline-block;
+	justify-content: space-evenly;
+	padding-top: 1%;
+}
+nav ul li a{
+	font-size: 1.2rem;
+	color: #12355B;
+	font-family: 'Darker Grotesque', sans-serif;
+	padding-right: 2rem;
+	padding-left: 2rem;
+	text-transform: lowercase;
+	text-decoration: none;
+}
+h1 {
+	font-size: 2rem;
+	color: #12355B;
+	font-family: 'Staatliches', cursive;
+	padding-bottom: 2%;
+}
+h2 {
+	font-size: 1.5rem;
+	color: #12355B;
+	font-family: 'Staatliches', cursive;
+	padding-bottom: 2%;
+}
+h3 {
+	font-size: 1.5rem;
+	color: #12355B;
+	font-family: 'Staatliches', cursive;
+	padding-bottom: 2%;
+}
+p {
+	font-size: 1.2rem;
+	color: #12355B;
+	font-family: 'Darker Grotesque', sans-serif;
+	padding-bottom: 2%;
+}
+.textopiezas{
+	text-align: center;
+}
+.listahuella {
+	font-size: 1.2rem;
+	color: #12355B;
+	font-family: 'Darker Grotesque', sans-serif;
+	padding-bottom: 2%;
+	padding-right: 2rem;
+	padding-left: 2rem;
+}
+.harman_titulo {
+	font-size: 1.5rem;
+	display: inline-block;
+	width: 33%;
+	padding-right: 2%;
+	height: auto;
+}
+.texto_principal p{
+display: inline-block;
+width: 66%;
+height: auto;
+}
+.titulolitioyplasticos {
+	display: inline-block;
+	width: 33%;
+	height: auto;
+	padding-left: 2%;
+	padding-right: 2% ;
+	font-size: 4rem;
+	background-color: #12355B;
+	color: F8F6F6;
+}
+.enlista {
+	display: inline-block;
+	width: 33%;
+	height: auto;
+	padding-left: 2%;
+	padding-right: 2% ;
+}
+.titulo {
+	font-size: 1.5rem;
+	color: #12355B;
+	font-family: 'Staatliches', cursive;
+	text-align: center;
+}
+.subtitulo{
+	font-size: 1.2rem;
+	color: #12355B;
+	font-family: 'Darker Grotesque', sans-serif;
+	text-align: justify;
+}
+.hyperlink {
+	font-size: 1.2rem;
+	color: #DF2935;
+	font-family: 'Darker Grotesque', sans-serif;
+	text-align: justify;
+	text-decoration: none;
+	padding-left: 1%;
+}
+.litioyplasticos {
+	display: inline-block;
+	width: 66%;
+	height: auto;
+	padding-left: 2%;
+	padding-right: 2% ;
+}
+.imagenes_piezas {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	align-items: center;
+}
+.imagen_pack1 {
+ width: 66%;
+ height: auto;
+ align-items: center;
+}
+.imagen_pack2 {
+display: inline-block;
+	width: 66%;
+	height: auto;
+	padding-left: 2%;
+	padding-right: 2% ;
+}
+footer
+{
+	display: flex;
+	text-align: center;
+	justify-content: space-evenly;
+	align-items: center;
+	height: 150px;
+	padding-left: 2%;
+	padding-right: 2%;
+	text-decoration: none;
+	font-family: 'Darker Grotesque', sans-serif;
+	font-size: 1rem;
+	color: #12355B;
+}
