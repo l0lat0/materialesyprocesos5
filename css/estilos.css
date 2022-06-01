@@ -143,6 +143,14 @@ display: inline-block;
 	padding-left: 2%;
 	padding-right: 2% ;
 }
+.textoreciclaje {
+	display: inline-block;
+	width: 66%;
+	height: auto;
+	text-align: center;
+	padding-left: 2%;
+	padding-right: 2% ;
+}
 footer
 {
 	display: flex;
