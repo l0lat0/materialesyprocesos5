@@ -98,6 +98,20 @@ height: auto;
 	padding-left: 2%;
 	padding-right: 2% ;
 }
+.textocentrado {
+	font-size: 1.5rem;
+	color: #12355B;
+	font-family: 'Staatliches', cursive;
+	text-align: center;
+	width: 44%;
+}
+.divcontaminantes {
+	display: inline-block;
+	width: 33%;
+	height: auto;
+	padding-left: 2%;
+	padding-right: 2% ;
+}
 .titulo {
 	font-size: 1.5rem;
 	color: #12355B;
@@ -134,7 +148,7 @@ height: auto;
 .imagen_pack1 {
  width: 66%;
  height: auto;
- align-items: center;
+ align-items: safe center;
 }
 .imagen_pack2 {
 display: inline-block;
