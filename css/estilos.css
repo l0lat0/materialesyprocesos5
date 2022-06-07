@@ -169,6 +169,17 @@ display: inline-block;
 	display: flex;
 	align-items: flex-start;
 }
+.divrediseno {
+	font-size: 1.2rem;
+	color: #12355B;
+	font-family: 'Darker Grotesque', sans-serif;
+	text-align: justify;
+	display: inline-block;
+	width: 33%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-bottom: 5%;
+}
 footer
 {
 	display: flex;
