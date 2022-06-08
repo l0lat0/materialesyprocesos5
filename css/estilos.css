@@ -97,7 +97,9 @@ height: auto;
 	height: auto;
 	padding-left: 2%;
 	padding-right: 2% ;
+	padding-top: 3%;
 }
+
 .imgrediseno {
 	display: inline-block;
 	width: 33%;
@@ -132,6 +134,17 @@ height: auto;
 	color: #12355B;
 	font-family: 'Darker Grotesque', sans-serif;
 	text-align: justify;
+}
+.subtitulorediseno {
+	font-size: 1.2rem;
+	color: #12355B;
+	font-family: 'Darker Grotesque', sans-serif;
+	text-align: justify;
+	display: inline-block;
+	width: 66%;
+	height: auto;
+	padding-left: 2%;
+	padding-right: 2%;
 }
 .hyperlink {
 	font-size: 1.2rem;
