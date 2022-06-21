@@ -26,13 +26,14 @@ nav ul li {
 	padding-top: 1%;
 }
 nav ul li a{
-	font-size: 1.2rem;
+	font-size: 1.5rem;
 	color: #12355B;
 	font-family: 'Darker Grotesque', sans-serif;
 	padding-right: 2rem;
 	padding-left: 2rem;
 	text-transform: lowercase;
 	text-decoration: none;
+	font-weight: normal;
 }
 h1 {
 	font-size: 2rem;
@@ -57,6 +58,33 @@ p {
 	color: #12355B;
 	font-family: 'Darker Grotesque', sans-serif;
 	padding-bottom: 2%;
+	font-weight: normal;
+}
+.resaltado {
+	color:#DF2935 ;
+
+}
+.prese {
+font-family: 'Staatliches', cursive;
+font-size: 1.5rem;
+display: inline-block;
+width: 50%;
+padding-right: 2%;
+padding-top: 2%;
+text-align: right;
+}
+.textoprese {
+font-family: 'Darker Grotesque', sans-serif;
+font-size: 1.2rem;
+display: inline-block;
+width: 50%;
+padding-left: 2%;
+padding-top: 2%;
+text-align: left;
+text-align: justify;
+}
+.centrarvideo {
+	object-position: center;
 }
 .textoconclusiones {
 padding-top: 2%;
