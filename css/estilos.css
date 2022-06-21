@@ -60,10 +60,6 @@ p {
 	padding-bottom: 2%;
 	font-weight: normal;
 }
-.resaltado {
-	color:#DF2935 ;
-
-}
 .prese {
 font-family: 'Staatliches', cursive;
 font-size: 1.5rem;
@@ -179,9 +175,29 @@ height: auto;
 	font-family: 'Staatliches', cursive;
 	text-align: center;
 }
+.tituloresaltado {
+	color:#DF2935 ;
+	font-family: 'Staatliches', cursive;
+	text-align: center;
+	font-size: 1.5rem;
+}
+.resaltado {
+	color:#DF2935 ;
+}
+.textopiezasresaltado {
+	color:#DF2935 ;
+	text-align: center;
+}
+
 .subtitulo{
 	font-size: 1.2rem;
 	color: #12355B;
+	font-family: 'Darker Grotesque', sans-serif;
+	text-align: justify;
+}
+.subtituloresaltado {
+font-size: 1.2rem;
+	color:#DF2935 ;
 	font-family: 'Darker Grotesque', sans-serif;
 	text-align: justify;
 }
