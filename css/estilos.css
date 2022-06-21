@@ -67,7 +67,7 @@ p {
 .prese {
 font-family: 'Staatliches', cursive;
 font-size: 1.5rem;
-display: inline-block;
+display: inline-flex;
 width: 50%;
 padding-right: 2%;
 padding-top: 2%;
@@ -76,7 +76,7 @@ text-align: right;
 .textoprese {
 font-family: 'Darker Grotesque', sans-serif;
 font-size: 1.2rem;
-display: inline-block;
+display: inline-flex;
 width: 50%;
 padding-left: 2%;
 padding-top: 2%;
